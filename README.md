@@ -3,7 +3,7 @@
 
 ## Hi there 👋
 
-I am **FURKAN KILIC** I'm a programming student in **Hack Your Future**. I'm from **Turkey**. I'm interested in **Python** and **graphic design**. I'm Dutch student 🤓
+I am **FURKAN KILIC** I'm a programming student in **Hack Your Future**. I'm from **Turkey**. I'm interested in **Python** and **graphic design**.    I'm Dutch student 🤓
 
 ---
 
